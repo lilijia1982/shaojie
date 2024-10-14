@@ -172,7 +172,7 @@ python-dotenv
 python-json-logger
 pytz
 pyu2f
-pywin32==306
+pywin32==307
 pywinpty
 PyYAML
 pyzmq
